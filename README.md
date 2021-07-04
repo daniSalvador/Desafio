@@ -9,7 +9,8 @@ Sistema para cadastro de anúncios com finalidade de retornar um relatorio com o
 
 Utilizando o programa:
 
-O programa é iniciado pelo terminal de comando, basta digitar: py desafioCapgemini.py Será apresentado o menu inicial com as opções oferecidas pelo programa(cadastrar, procurar relatório e sair) Cada opção sera representada por um número, [1], [2], [3].
+O programa é iniciado pelo terminal de comando, basta digitar: py desafioCapgemini.py 
+Será apresentado o menu inicial com as opções oferecidas pelo programa(cadastrar, procurar relatório e sair) Cada opção sera representada por um número, [1], [2], [3].
 
 Ao digitar a opção [1] será execudo o comando para cadastro de anúncio. (Ao digitar a data deve ser feito neste formato: dd/mm/aaaa)
 
